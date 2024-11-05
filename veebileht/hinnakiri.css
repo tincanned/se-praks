@@ -1,4 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Mrs+Saint+Delafield&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+body {
+    background-color: rgb(255, 242, 220);
+
+}
+
 h1 {
     font-size: 64px;
     font-family: "Mrs Saint Delafield", cursive;
