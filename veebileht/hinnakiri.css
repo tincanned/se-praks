@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Mrs+Saint+Delafield&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+h1 {
+    font-size: 64px;
+    font-family: "Mrs Saint Delafield", cursive;
+    font-weight: 400;
+    font-style: normal;
+
+}
+p {
+    font-family: "Roboto Condensed", serif;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+table {
+    width: auto;
+    border-collapse: collapse
+    
+}
+
+
+th, td {
+    padding: 10px;
+    border: 1px solid;
+    font-family: "Roboto Condensed", serif;
+
+}
+th {
+    
+    font-weight: bold;
+    text-align: center;
+    font-size: large;
+}
